@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Mumbai",
+    "coordinates": {
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    "metadata": {
+      "population": 12442373,
+      "area_sq_km": 603.4
+    }
+  },
+  {
+    "city": "Pune",
+    "coordinates": {
+      "latitude": 18.5204,
+      "longitude": 73.8567
+    },
+    "metadata": {
+      "population": 3124458,
+      "area_sq_km": 331.26
+    }
+  },
+  {
+    "city": "Nagpur",
+    "coordinates": {
+      "latitude": 21.1458,
+      "longitude": 79.0882
+    },
+    "metadata": {
+      "population": 2405665,
+      "area_sq_km": 217.56
+    }
+  },
+  {
+    "city": "Nashik",
+    "coordinates": {
+      "latitude": 19.9975,
+      "longitude": 73.7898
+    },
+    "metadata": {
+      "population": 1392034,
+      "area_sq_km": 264.0
+    }
+  },
+  {
+    "city": "Thane",
+    "coordinates": {
+      "latitude": 19.2183,
+      "longitude": 72.9781
+    },
+    "metadata": {
+      "population": 1813000,
+      "area_sq_km": 147.0
+    }
+  },
+  {
+    "city": "Aurangabad",
+    "coordinates": {
+      "latitude": 19.8762,
+      "longitude": 75.3433
+    },
+    "metadata": {
+      "population": 1164098,
+      "area_sq_km": 331.0
+    }
+  },
+  {
+    "city": "Solapur",
+    "coordinates": {
+      "latitude": 17.6599,
+      "longitude": 75.9060
+    },
+    "metadata": {
+      "population": 1004067,
+      "area_sq_km": 150.0
+    }
+  },
+  {
+    "city": "Amravati",
+    "coordinates": {
+      "latitude": 20.9333,
+      "longitude": 77.3000
+    },
+    "metadata": {
+      "population": 659703,
+      "area_sq_km": 99.0
+    }
+  },
+  {
+    "city": "Kolhapur",
+    "coordinates": {
+      "latitude": 16.7060,
+      "longitude": 74.2439
+    },
+    "metadata": {
+      "population": 553207,
+      "area_sq_km": 65.18
+    }
+  },
+  {
+    "city": "Nanded",
+    "coordinates": {
+      "latitude": 19.1406,
+      "longitude": 77.3070
+    },
+    "metadata": {
+      "population": 579188,
+      "area_sq_km": 60.25
+    }
+  }
+]
